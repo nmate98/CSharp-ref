@@ -1,0 +1,6 @@
+﻿CREATE TABLE [dbo].[Note]
+(
+	[Id] INT NOT NULL PRIMARY KEY IDENTITY, 
+    [cim] NVARCHAR(1000) NOT NULL, 
+    [tartalom] NVARCHAR(1000) NOT NULL 
+)

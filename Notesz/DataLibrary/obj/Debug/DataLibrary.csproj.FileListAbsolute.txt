@@ -1,0 +1,9 @@
+F:\CSharp\DataLibrary\obj\Debug\DataLibrary.csprojAssemblyReference.cache
+F:\CSharp\DataLibrary\obj\Debug\DataLibrary.csproj.CoreCompileInputs.cache
+F:\CSharp\DataLibrary\bin\Debug\DataLibrary.dll
+F:\CSharp\DataLibrary\bin\Debug\DataLibrary.pdb
+F:\CSharp\DataLibrary\bin\Debug\Dapper.dll
+F:\CSharp\DataLibrary\bin\Debug\Dapper.xml
+F:\CSharp\DataLibrary\obj\Debug\DataLibrary.csproj.CopyComplete
+F:\CSharp\DataLibrary\obj\Debug\DataLibrary.dll
+F:\CSharp\DataLibrary\obj\Debug\DataLibrary.pdb

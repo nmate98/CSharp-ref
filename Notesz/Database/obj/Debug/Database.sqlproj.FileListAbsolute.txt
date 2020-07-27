@@ -1,0 +1,9 @@
+F:\CSharp\Database\bin\Debug\Database.dacpac
+F:\CSharp\Database\bin\Debug\Database.dll
+F:\CSharp\Database\bin\Debug\Database.pdb
+F:\CSharp\Database\obj\Debug\Model.xml
+F:\CSharp\Database\obj\Debug\refactor.xml
+F:\CSharp\Database\obj\Debug\postdeploy.sql
+F:\CSharp\Database\obj\Debug\predeploy.sql
+F:\CSharp\Database\obj\Debug\Database.dll
+F:\CSharp\Database\obj\Debug\Database.pdb
